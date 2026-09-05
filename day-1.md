@@ -1,6 +1,8 @@
 # Daily Learning
 
 ## Morning Planning 
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+
 - [ ] check out few things from github for topic ideas.
 - [ ] Learn about markdown
 - [ ] convert my blog to webpages
